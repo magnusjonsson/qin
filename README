@@ -1,0 +1,7 @@
+Qin is an LV2 plugin for synthesizing plucking and striking sounds.
+
+The basic architecture is two oscillators feeding into a highpass filter
+followed by a lowpass filter.
+
+Unique to this synth are the envelopes which are designed to better mimic
+physical plucking and striking sounds.
