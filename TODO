@@ -1,3 +1,6 @@
 - bandlimited oscs
 - ringmod or something similar to create inharmonic sounds
 - tunable second osc
+- polyphony?
+- pitch bend
+- adjustable starting freqs for LP and HP filters
